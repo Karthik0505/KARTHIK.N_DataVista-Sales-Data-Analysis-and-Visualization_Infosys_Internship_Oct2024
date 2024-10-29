@@ -14,7 +14,9 @@ Codes Executed:
 
 ## DATA PROCESSING
 Use Case - It is used for manipulating, transforming and analysing the data.
+
 Library Used - Pandas
+
 Codes Executed:
 1. Reading the file ( csv, xlsx, etc. )
 2. Executing and Extracting the headings
@@ -23,7 +25,9 @@ Codes Executed:
 
 ## DATA VISUALIZATION
 Use Case - Used for visualizing the data for better understanding
+
 Library Used - Matplotlib
+
 Codes Executed :
 1. Simple Line Plot
 2. Scatter plot
@@ -38,7 +42,9 @@ Codes Executed :
 
 ## DEEP LEARNING IMAGE PROCESSING
 Use Case - Digitizing and Executing images with the help of vision (Deep learning- CNN) framework/libraries
+
 Library Used - OpenCV
+
 Codes Executed:
 1. Image Reading
 2. Image Crop
@@ -58,6 +64,7 @@ Codes Executed:
 
 ## DEEP LEARNING VIDEO PROCESSING
 Use Case - Digitizing and Executing videos with the help of vision (Deep learning- CNN) framework/libraries
+
 Library Used - OpenCV
 Codes Executed:
 1. Video Streaming
@@ -68,4 +75,5 @@ Codes Executed:
 
 ## SALES DATA ANALYSIS AND VISUZALIZATION
 Use Case - Processing, Analysing and visualizing the Sales Data
+
 Library Used - Pandas, Matplotlib, Seaborn
