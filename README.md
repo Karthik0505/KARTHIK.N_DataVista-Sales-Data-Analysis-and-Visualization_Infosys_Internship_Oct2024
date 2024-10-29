@@ -1,6 +1,8 @@
 ## DATA OPERATIONS
 Use Case - Learning how to perform arithmetic & modulus operations. It is widely used in scientific computing which supports arrays and matrices along with a large collections of high level mathematical functions to operate on this data structures.
+
 Library Used - Numpy
+
 Codes Executed: 
 1. Linear Regression
 2. Logistic Regression
