@@ -136,10 +136,10 @@ Tools and Technologies:
 
 Libraries Used:
 
-• pandas for data manipulation and preprocessing
-• matplotlib and seaborn for data visualization
-• statsmodels for statistical analysis
-• sklearn for predictive modeling
+  •  pandas for data manipulation and preprocessing
+  •  matplotlib and seaborn for data visualization
+  •  statsmodels for statistical analysis
+  •  sklearn for predictive modeling
 
 -------------------------------------------------------------------------------------------------------------------
 
