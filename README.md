@@ -128,12 +128,14 @@ Data Dictionary:
 9. Outlet_Size: Size of the store (e.g., Small, Medium, Large)
 10.Outlet_Location_Type: Type of city where the store is located (e.g., Tier 1, Tier 2, Tier 3)
 11.Outlet_Type: Indicates the type of store (e.g., Grocery Store, Supermarket Type 1/2/3)
-   12.Item_Outlet_Sales: Total sales of the product in a particular store (Target variable in the train dataset)
+12.Item_Outlet_Sales: Total sales of the product in a particular store (Target variable in the train dataset)
 
 Tools and Technologies:
+
 • Programming Language: Python
 
 Libraries Used:
+
 • pandas for data manipulation and preprocessing
 • matplotlib and seaborn for data visualization
 • statsmodels for statistical analysis
