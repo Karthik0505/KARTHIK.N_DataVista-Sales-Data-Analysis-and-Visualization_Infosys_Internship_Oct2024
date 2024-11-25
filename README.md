@@ -103,7 +103,9 @@ Codes Executed :
 18. violin plot
 
 ## FINAL PROJECT
-Title - Big Mart Sales Data Analysis
+
+### Title - Big Mart Sales Data Analysis
+
 The project aims to analyze sales data from Big Mart to uncover key insights,extract meaningful information, and interpret findings to guide stakeholders in making data-driven decisions.
 
 Problem Statement :
