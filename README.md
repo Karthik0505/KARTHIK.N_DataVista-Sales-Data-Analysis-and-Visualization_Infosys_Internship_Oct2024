@@ -143,6 +143,17 @@ Libraries Used:
   •  statsmodels for statistical analysis
   •  sklearn for predictive modeling
 
+K Means CLustering:
+  Cluster 0: Represents products with an average weight of 13.88, a visibility percentage of 4.58%, and a higher MRP of 195.26. Likely premium or high-end products.
+
+  Cluster 1: Represents lighter products with a weight of 11.82, a visibility percentage of 4.32%, and the lowest MRP of 89.82. Likely basic or economical items.
+
+  Cluster 2: Represents moderately weighted products with a weight of 12.88, a higher visibility percentage of 14.28%, and a mid-range MRP of 136.12. Likely popular or moderately priced products.
+
+These Clusters provide actionable insights for pricing, marketing, and store layout strategies.
+
+The predictive model can help forecast sales and optimize inventory across stores.
+
 -------------------------------------------------------------------------------------------------------------------
 
 
